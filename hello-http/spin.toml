@@ -1,0 +1,20 @@
+spin_manifest_version = 2
+
+[application]
+authors = ["Taisuke Yamada <tayamada@akamai.com>"]
+description = ""
+name = "hello-http"
+version = "0.1.0"
+
+[[trigger.http]]
+route = "/..."
+component = "hello-http"
+
+[component.hello-http]
+source = "dist/hello-http.wasm"
+exclude_files = ["**/node_modules"]
+allowed_outbound_hosts = ["https://www.nic.ad.jp"]
+
+[component.hello-http.build]
+command = ["npm install", "npm run build"]
+watch = ["src/**/*.js"]

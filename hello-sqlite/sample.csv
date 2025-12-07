@@ -1,0 +1,101 @@
+datetime,shopname,category,itemname,salescount,unitprice,salestotal
+2025-01-11,Nagoya East,DailyGoods,Tissue,7,4117,28819
+2025-01-19,Tokyo Main,Electronics,USB Cable,18,1099,19782
+2025-03-07,Tokyo Main,Snack,Cookies,5,608,3040
+2025-01-20,Sapporo North,Book,Notebook,15,2648,39720
+2025-11-29,Osaka Central,Snack,Cookies,11,923,10153
+2025-08-04,Osaka Central,Beverage,Mineral Water,19,2367,44973
+2025-10-10,Tokyo Main,DailyGoods,Tissue,5,3538,17690
+2025-02-06,Sapporo North,Book,Novel,15,1828,27420
+2025-12-16,Osaka Central,Beverage,Mineral Water,7,3122,21854
+2025-02-08,Fukuoka West,Beverage,Soda,18,2383,42894
+2025-09-20,Sapporo North,Electronics,Mouse,1,3240,3240
+2025-07-25,Tokyo Main,Beverage,Mineral Water,10,4506,45060
+2025-01-30,Fukuoka West,Beverage,Green Tea,17,3420,58140
+2025-01-21,Sapporo North,Snack,Potato Chips,11,3487,38357
+2025-05-30,Osaka Central,Book,Manga,18,528,9504
+2025-08-28,Tokyo Main,Snack,Cookies,8,2456,19648
+2025-08-03,Fukuoka West,DailyGoods,Shampoo,8,4210,33680
+2025-01-22,Tokyo Main,Beverage,Mineral Water,4,1319,5276
+2025-12-25,Sapporo North,Electronics,Power Bank,5,3532,17660
+2025-10-18,Fukuoka West,Electronics,Power Bank,13,1973,25649
+2025-09-12,Nagoya East,Beverage,Mineral Water,20,486,9720
+2025-07-26,Osaka Central,Beverage,Soda,6,4329,25974
+2025-08-10,Sapporo North,Book,Manga,17,4988,84796
+2025-12-20,Osaka Central,Electronics,Mouse,1,4272,4272
+2025-02-28,Fukuoka West,Snack,Potato Chips,9,4275,38475
+2025-03-02,Tokyo Main,Beverage,Coffee,7,3530,24710
+2025-06-30,Osaka Central,Snack,Potato Chips,6,922,5532
+2025-12-26,Sapporo North,Snack,Chocolate,17,3343,56831
+2025-03-02,Tokyo Main,Beverage,Mineral Water,2,3308,6616
+2025-11-06,Sapporo North,Book,Manga,1,975,975
+2025-07-11,Fukuoka West,Beverage,Mineral Water,10,4482,44820
+2025-05-25,Nagoya East,Beverage,Green Tea,13,3187,41431
+2025-03-22,Osaka Central,DailyGoods,Toothpaste,16,154,2464
+2025-05-17,Osaka Central,DailyGoods,Toothpaste,3,1998,5994
+2025-11-01,Fukuoka West,Beverage,Soda,4,3304,13216
+2025-06-05,Tokyo Main,Beverage,Soda,1,1028,1028
+2025-05-14,Fukuoka West,Snack,Cookies,18,4450,80100
+2025-04-29,Osaka Central,Beverage,Soda,5,1417,7085
+2025-02-01,Sapporo North,DailyGoods,Toothpaste,18,2015,36270
+2025-04-01,Sapporo North,Snack,Potato Chips,6,4132,24792
+2025-02-12,Osaka Central,Beverage,Green Tea,20,3562,71240
+2025-06-12,Nagoya East,DailyGoods,Toothpaste,2,4716,9432
+2025-06-02,Nagoya East,Electronics,Power Bank,9,1141,10269
+2025-10-15,Sapporo North,Book,Manga,20,2633,52660
+2025-01-29,Tokyo Main,Electronics,USB Cable,13,3835,49855
+2025-08-27,Tokyo Main,Book,Novel,20,3808,76160
+2025-08-18,Nagoya East,Snack,Cookies,16,2545,40720
+2025-12-09,Osaka Central,Book,Notebook,17,2084,35428
+2025-10-09,Osaka Central,Book,Notebook,18,1975,35550
+2025-01-07,Tokyo Main,Electronics,Power Bank,20,1206,24120
+2025-12-22,Osaka Central,Snack,Nuts,11,2236,24596
+2025-09-24,Nagoya East,DailyGoods,Shampoo,20,1111,22220
+2025-01-26,Tokyo Main,Beverage,Soda,7,1253,8771
+2025-03-29,Nagoya East,Snack,Chocolate,12,1330,15960
+2025-10-01,Osaka Central,DailyGoods,Toothpaste,17,3067,52139
+2025-11-16,Osaka Central,DailyGoods,Shampoo,2,1482,2964
+2025-09-15,Tokyo Main,Beverage,Soda,15,883,13245
+2025-10-21,Sapporo North,Beverage,Soda,15,204,3060
+2025-05-29,Fukuoka West,Electronics,USB Cable,6,2147,12882
+2025-07-30,Osaka Central,Electronics,Mouse,20,3797,75940
+2025-11-06,Nagoya East,DailyGoods,Toothpaste,18,3084,55512
+2025-10-13,Osaka Central,DailyGoods,Tissue,1,2675,2675
+2025-11-04,Tokyo Main,Beverage,Mineral Water,9,1079,9711
+2025-11-06,Fukuoka West,Book,Magazine,15,3887,58305
+2025-12-06,Tokyo Main,Snack,Cookies,4,2018,8072
+2025-01-29,Tokyo Main,DailyGoods,Detergent,9,4147,37323
+2025-08-13,Osaka Central,Book,Manga,5,2814,14070
+2025-01-23,Nagoya East,Book,Notebook,3,444,1332
+2025-01-29,Tokyo Main,DailyGoods,Tissue,20,3840,76800
+2025-01-29,Sapporo North,Electronics,Earphones,2,3429,6858
+2025-10-10,Fukuoka West,DailyGoods,Tissue,1,2024,2024
+2025-10-06,Sapporo North,Book,Manga,17,4702,79934
+2025-09-27,Tokyo Main,DailyGoods,Tissue,6,3273,19638
+2025-12-18,Fukuoka West,Book,Magazine,20,2972,59440
+2025-04-18,Tokyo Main,Electronics,Mouse,17,4420,75140
+2025-07-06,Tokyo Main,Beverage,Coffee,15,1279,19185
+2025-05-17,Fukuoka West,Beverage,Coffee,13,3162,41106
+2025-02-10,Sapporo North,Book,Manga,17,4248,72216
+2025-11-24,Fukuoka West,Beverage,Coffee,12,4872,58464
+2025-02-15,Osaka Central,Electronics,Power Bank,19,394,7486
+2025-05-04,Osaka Central,Electronics,Mouse,5,3206,16030
+2025-08-25,Tokyo Main,Book,Notebook,18,4956,89208
+2025-08-17,Fukuoka West,DailyGoods,Detergent,6,3731,22386
+2025-10-29,Sapporo North,Beverage,Soda,14,3824,53536
+2025-10-08,Tokyo Main,Snack,Nuts,6,2297,13782
+2025-11-16,Sapporo North,Beverage,Soda,2,4760,9520
+2025-11-16,Osaka Central,Electronics,Power Bank,15,4540,68100
+2025-04-15,Nagoya East,Book,Novel,14,2444,34216
+2025-03-01,Tokyo Main,Snack,Chocolate,7,1116,7812
+2025-02-23,Fukuoka West,Electronics,Mouse,2,4193,8386
+2025-04-25,Osaka Central,Beverage,Green Tea,18,2880,51840
+2025-09-05,Sapporo North,Book,Novel,15,4556,68340
+2025-02-27,Tokyo Main,DailyGoods,Detergent,1,2008,2008
+2025-02-27,Osaka Central,Book,Magazine,7,2452,17164
+2025-06-07,Sapporo North,Beverage,Soda,3,1456,4368
+2025-10-27,Osaka Central,DailyGoods,Detergent,14,1285,17990
+2025-12-08,Tokyo Main,Snack,Cookies,10,3211,32110
+2025-08-31,Tokyo Main,Electronics,Earphones,4,4148,16592
+2025-08-14,Osaka Central,Snack,Potato Chips,6,2973,17838
+2025-12-20,Nagoya East,Beverage,Soda,17,1196,20332

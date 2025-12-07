@@ -1,0 +1,26 @@
+spin_manifest_version = 2
+
+[variables]
+api_key = { required = true }
+
+[component.hello-llm-ext.variables]
+api_key = "{{ api_key }}"
+
+[application]
+authors = ["Taisuke Yamada <tayamada@akamai.com>"]
+description = ""
+name = "hello-llm-ext"
+version = "0.1.0"
+
+[[trigger.http]]
+route = "/..."
+component = "hello-llm-ext"
+
+[component.hello-llm-ext]
+source = "dist/hello-llm-ext.wasm"
+exclude_files = ["**/node_modules"]
+allowed_outbound_hosts = ["https://openrouter.ai"]
+
+[component.hello-llm-ext.build]
+command = ["npm install", "npm run build"]
+watch = ["src/**/*.js"]

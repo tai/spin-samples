@@ -1,0 +1,18 @@
+spin_manifest_version = 2
+
+[application]
+authors = ["Taisuke Yamada <tayamada@akamai.com>"]
+description = ""
+name = "hello-cron"
+version = "0.1.0"
+
+[[trigger.http]]
+route = "/..."
+component = "hello-cron"
+
+[component.hello-cron]
+source = "dist/hello-cron.wasm"
+exclude_files = ["**/node_modules"]
+[component.hello-cron.build]
+command = ["npm install", "npm run build"]
+watch = ["src/**/*.js"]
